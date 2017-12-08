@@ -54,18 +54,6 @@
           }
         }
       },
-      "runtimeInfos": {
-        "jobUrl": {
-          "propertyName": "jobUrl",
-          "label": "JOB UI",
-          "tooltip": "View in Spark web UI",
-          "group": "spark",
-          "values": [
-            "https://api.qubole.com/cluster-proxy?encodedUrl\u003dhttp%3A%2F%2Fec2-54-179-91-169.ap-southeast-1.compute.amazonaws.com%3A8088%2Fproxy%2Fapplication_1512661937677_0001/jobs/job?spark\u003dtrue\u0026id\u003d0"
-          ],
-          "interpreterSettingId": "2CZWCW8AQ304991512661973369"
-        }
-      },
       "jobName": "paragraph_1498813356157_1072674092",
       "id": "20170630-090236_109258213_q_W6Q2CCJREB1498628176",
       "result": {
@@ -107,15 +95,43 @@
       "dateCreated": "Jun 30, 2017 9:29:34 AM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "%sh\necho \"commit2\"",
+      "user": "nishantp@qubole.com",
+      "dateUpdated": "Dec 8, 2017 5:42:25 AM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/sh"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1512711723808_1094878224",
+      "id": "20171208-054203_1798187511_q_W6Q2CCJREB1498628176",
+      "dateCreated": "Dec 8, 2017 5:42:03 AM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
     }
   ],
   "name": "Dashboard-demo",
   "id": "W6Q2CCJREB1498628176",
   "angularObjects": {
-    "2CZ1HS7JU304991512661944167:shared_process": [],
-    "2D1RNYHM3304991512661944237:shared_process": [],
-    "2CZWCW8AQ304991512661973369:shared_process": [],
-    "2CYZFRGKC304991512661944217:shared_process": []
+    "2D1YDX4JY304991512710822065:shared_process": [],
+    "2D3RQK742304991512710854470:shared_process": [],
+    "2D1WU6JAS304991512710822011:shared_process": [],
+    "2D2DNURTB304991512710821933:shared_process": []
   },
   "config": {
     "looknfeel": "default",
