@@ -68,9 +68,9 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%sh\necho \"new changes 2017-12-02\" heloo",
+      "text": "%sh\necho \"new changes 2017-12-02\" hel123oo",
       "user": "nishantp@qubole.com",
-      "dateUpdated": "Dec 11, 2017 5:54:16 AM",
+      "dateUpdated": "Dec 11, 2017 5:54:33 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -95,11 +95,11 @@
       "result": {
         "code": "SUCCESS",
         "type": "TEXT",
-        "msg": "new changes 2017-12-02 heloo\n"
+        "msg": "new changes 2017-12-02 hel123oo\n"
       },
       "dateCreated": "Jun 30, 2017 9:29:34 AM",
-      "dateStarted": "Dec 11, 2017 5:54:16 AM",
-      "dateFinished": "Dec 11, 2017 5:54:17 AM",
+      "dateStarted": "Dec 11, 2017 5:54:33 AM",
+      "dateFinished": "Dec 11, 2017 5:54:33 AM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
