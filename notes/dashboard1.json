@@ -68,9 +68,9 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "text": "%sh\necho \"new changes 2017-12-02\"",
+      "text": "%sh\necho \"new changes 2017-12-02\" heloo",
       "user": "nishantp@qubole.com",
-      "dateUpdated": "Dec 7, 2017 4:20:16 PM",
+      "dateUpdated": "Dec 11, 2017 5:54:16 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -92,8 +92,15 @@
       },
       "jobName": "paragraph_1498814974431_1544121190",
       "id": "20170630-092934_1207294159_q_W6Q2CCJREB1498628176",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "new changes 2017-12-02 heloo\n"
+      },
       "dateCreated": "Jun 30, 2017 9:29:34 AM",
-      "status": "READY",
+      "dateStarted": "Dec 11, 2017 5:54:16 AM",
+      "dateFinished": "Dec 11, 2017 5:54:17 AM",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
@@ -140,10 +147,10 @@
   "name": "Dashboard-demo",
   "id": "W6Q2CCJREB1498628176",
   "angularObjects": {
-    "2D1YDX4JY304991512710822065:shared_process": [],
-    "2D3RQK742304991512710854470:shared_process": [],
-    "2D1WU6JAS304991512710822011:shared_process": [],
-    "2D2DNURTB304991512710821933:shared_process": []
+    "2D3WV6RWG304991512969290399:shared_process": [],
+    "2D31MSE37304991512969290421:shared_process": [],
+    "2D3ANWR48304991512969318509:shared_process": [],
+    "2D3QWHNFZ304991512969290344:shared_process": []
   },
   "config": {
     "looknfeel": "default",
